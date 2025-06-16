@@ -1,57 +1,56 @@
-# 👋 Hi there! I'm Lavisha Makhija
-
-## 📊 About Me
-I’m a commerce graduate turned passionate **Data Analyst** on a journey into the world of **Data Science**.  
-I enjoy transforming messy data into clear insights and using the power of **analytics, visualization, and AI** to solve real-world problems.
-
-- 🎓 Background: B.Com (Bachelor of Commerce)
-- 🎯 Transitioned to: Data Analytics & now diving into **Machine Learning, Deep Learning & AI**
-- 📚 Currently Learning: Scikit-learn, TensorFlow, Power BI, and Model Building
-- 💡 Passionate about: Automation, Smart Dashboards, and Data-Driven Decision Making
+<h1 align="center">Hi there! 👋 I'm Lavisha Makhija</h1>
+<p align="center">Aspiring Data Scientist | Certified Data Analyst | Commerce Graduate</p>
 
 ---
 
-## 🛠️ Tools & Technologies
+### 💫 About Me
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+🎓 I hold a degree in **Commerce**, but my curiosity led me to the world of **data**.  
+📊 I’ve completed a professional course in **Data Analysis** and am now diving deeper into  
+the exciting fields of **Machine Learning, Deep Learning, and Artificial Intelligence**.  
+💡 I love finding patterns, solving real-world problems, and building visual stories with data.
 
 ---
 
-## 📂 Featured Projects
+### 🔧 Tech Stack & Tools
 
-- 📈 **Excel Sales Dashboard**  
-  A dynamic dashboard for tracking monthly KPIs, trends, and goals.  
-  _Tools: Excel, PivotTables, Charts_
-
-- 🧹 **Data Cleaning & EDA (Insurance Dataset)**  
-  Explored and cleaned a real-world dataset using Python libraries.  
-  _Tools: Pandas, Seaborn, Matplotlib_
-
-- 🤖 **ML Model for Salary Prediction (In Progress)**  
-  Building a regression model to predict salaries based on skills and experience.  
-  _Tools: Scikit-learn, Jupyter_
+- 🐍 **Languages & Libraries**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
+- 📊 **Data Tools**: Excel (Advanced), Power BI, SQL  
+- 🤖 **Learning**: TensorFlow, Machine Learning Models  
+- 🧰 **Others**: Jupyter Notebook, Google Colab, Git & GitHub
 
 ---
 
-## 📊 GitHub Stats
+### 📂 Highlighted Projects
 
-![Lavisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lavishamakhija&show_icons=true&theme=tokyonight&hide=contribs&count_private=true)
+| Project | Description | Tools |
+|--------|-------------|-------|
+| 📈 **Sales Dashboard (Excel)** | Interactive KPIs dashboard for monthly sales insights | Excel, Charts |
+| 🔍 **Insurance EDA** | Performed data cleaning, analysis, and visualization | Python, Pandas |
+| 🤖 **Salary Prediction (Ongoing)** | Building an ML model to predict salary based on skills | Python, Scikit-learn |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavishamakhija&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-here)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+> 🔗 Check out my pinned repositories for more!
 
 ---
 
-> _“Turning data into decisions, one project at a time.”_
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lavishamakhija&show_icons=true&theme=radical" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lavishamakhija&layout=compact&theme=radical" width="45%" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+- 📧 Email: lavishamakhija12@gmail.com
+
+---
+
+### 🧠 Fun Fact
+
+> I blend business logic with data science to tell stories that drive decisions.
+
+---
+
