@@ -28,9 +28,6 @@ the exciting fields of **Machine Learning, Deep Learning, and Artificial Intelli
 | 📈 **Sales Dashboard (Excel)** | Interactive KPIs dashboard for monthly sales insights | Excel, Charts |
 | 🔍 **Insurance EDA** | Performed data cleaning, analysis, and visualization | Python, Pandas |
 | 🤖 **Salary Prediction (Ongoing)** | Building an ML model to predict salary based on skills | Python, Scikit-learn |
-
-> 🔗 Check out my pinned repositories for more!
-
 ---
 
 ### 📈 GitHub Stats
@@ -45,7 +42,7 @@ the exciting fields of **Machine Learning, Deep Learning, and Artificial Intelli
 ### 📬 Let's Connect
 
 - 📧 Email: lavishamakhija12@gmail.com
-
+-  [LinkedIn](https://www.linkedin.com/in/ lavisha-makhija-6804852b7 )
 ---
 
 ### 🧠 Fun Fact
